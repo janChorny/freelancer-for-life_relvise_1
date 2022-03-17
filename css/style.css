@@ -129,12 +129,12 @@ body {
 		z-index: 2;
 		margin: 0px;
 		padding: 135px 0px 0px 100px;
-		top: 0;
-		right: -620px;
+		top: -500px;
+		right: 0;
 		transition: 1.0s;
 	}
 	.menu__list.open{
-		right: 0;
+		top: 0;
 		box-shadow: 0 0 0 10000px rgba(0,0,0,0.5);
 	}
 }

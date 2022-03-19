@@ -1,4 +1,4 @@
-# freelancer-for-life_relvise_1
+# freelancer-for-life_relvise
 
 
-Result https://raw.githack.com/janChorny/freelancer-for-life_relvise_1/main/index.html
+> Result you can see [here](https://janchorny.github.io/freelancer-for-life_relvise/)
